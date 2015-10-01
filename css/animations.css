@@ -678,7 +678,7 @@ div.view-frame.ng-scope.ng-animate.ng-leave.ng-leave-active
   background: white;
 }
 
-.thumbnail.card-reversed{
+img.card-reversed{
     -moz-transform: scaley(-1);
         -o-transform: scaley(-1);
         -webkit-transform: scaley(-1);

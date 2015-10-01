@@ -1,0 +1,1014 @@
+[
+{
+"_id" : 1,
+"name" : "愚者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(1).jpg"
+},
+
+{
+"_id" : 2,
+"name" : "魔術師",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(2).jpg"
+},
+
+{
+"_id" : 3,
+"name" : "女祭司",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(3).jpg"
+},
+
+{
+"_id" : 4,
+"name" : "皇后",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(4).jpg"
+},
+
+{
+"_id" : 5,
+"name" : "皇帝",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(5).jpg"
+},
+
+{
+"_id" : 6,
+"name" : "教宗",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(6).jpg"
+},
+
+{
+"_id" : 7,
+"name" : "戀人",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(7).jpg"
+},
+
+{
+"_id" : 8,
+"name" : "戰車",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(8).jpg"
+},
+
+{
+"_id" : 9,
+"name" : "力量",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(9).jpg"
+},
+
+{
+"_id" : 10,
+"name" : "隱者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(10).jpg"
+},
+
+{
+"_id" : 11,
+"name" : "命運之輪",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(11).jpg"
+},
+
+{
+"_id" : 12,
+"name" : "正義",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(12).jpg"
+},
+
+{
+"_id" : 13,
+"name" : "吊人",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(13).jpg"
+},
+
+{
+"_id" : 14,
+"name" : "死神",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(14).jpg"
+},
+
+{
+"_id" : 15,
+"name" : "節制",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(15).jpg"
+},
+
+{
+"_id" : 16,
+"name" : "惡魔",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(16).jpg"
+},
+
+{
+"_id" : 17,
+"name" : "塔",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(17).jpg"
+},
+
+{
+"_id" : 18,
+"name" : "星星",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(18).jpg"
+},
+
+{
+"_id" : 19,
+"name" : "月亮",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(19).jpg"
+},
+
+{
+"_id" : 20,
+"name" : "太陽",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(20).jpg"
+},
+
+{
+"_id" : 21,
+"name" : "審判",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(21).jpg"
+},
+
+{
+"_id" : 22,
+"name" : "世界",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(22).jpg"
+},
+
+{
+"_id" : 23,
+"name" : "權杖一",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(23).jpg"
+},
+
+{
+"_id" : 24,
+"name" : "權杖二",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(24).jpg"
+},
+
+{
+"_id" : 25,
+"name" : "權杖三",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(25).jpg"
+},
+
+{
+"_id" : 26,
+"name" : "權杖四",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(26).jpg"
+},
+
+{
+"_id" : 27,
+"name" : "權杖五",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(27).jpg"
+},
+
+{
+"_id" : 28,
+"name" : "權杖六",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(28).jpg"
+},
+
+{
+"_id" : 29,
+"name" : "權杖七",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(29).jpg"
+},
+
+{
+"_id" : 30,
+"name" : "權杖八",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(30).jpg"
+},
+
+{
+"_id" : 31,
+"name" : "權杖九",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(31).jpg"
+},
+
+{
+"_id" : 32,
+"name" : "權杖十",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(32).jpg"
+},
+
+{
+"_id" : 33,
+"name" : "權杖國王",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(33).jpg"
+},
+
+{
+"_id" : 34,
+"name" : "權杖皇后",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(34).jpg"
+},
+
+{
+"_id" : 35,
+"name" : "權杖騎士",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(35).jpg"
+},
+
+{
+"_id" : 36,
+"name" : "權杖侍者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(36).jpg"
+},
+
+{
+"_id" : 37,
+"name" : "寶劍一",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(37).jpg"
+},
+
+{
+"_id" : 38,
+"name" : "寶劍二",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(38).jpg"
+},
+
+{
+"_id" : 39,
+"name" : "寶劍三",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(39).jpg"
+},
+
+{
+"_id" : 40,
+"name" : "寶劍四",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(40).jpg"
+},
+
+{
+"_id" : 41,
+"name" : "寶劍五", "position" : "正位",
+"imageUrl" : "Tarotpic/(41).jpg"
+},
+
+{
+"_id" : 42,
+"name" : "寶劍六",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(42).jpg"
+},
+
+{
+"_id" : 43,
+"name" : "寶劍七",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(43).jpg"
+},
+
+{
+"_id" : 44,
+"name" : "寶劍八",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(44).jpg"
+},
+
+{
+"_id" : 45,
+"name" : "寶劍九",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(45).jpg"
+},
+
+{
+"_id" : 46,
+"name" : "寶劍十",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(46).jpg"
+},
+
+{
+"_id" : 47,
+"name" : "寶劍國王",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(47).jpg"
+},
+
+{
+"_id" : 48,
+"name" : "寶劍皇后",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(48).jpg"
+},
+
+{
+"_id" : 49,
+"name" : "寶劍騎士",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(49).jpg"
+},
+
+{
+"_id" : 50,
+"name" : "寶劍侍者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(50).jpg"
+},
+
+{
+"_id" : 51,
+"name" : "聖杯一",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(51).jpg"
+},
+
+{
+"_id" : 52,
+"name" : "聖杯二",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(52).jpg"
+},
+
+{
+"_id" : 53,
+"name" : "聖杯三",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(53).jpg"
+},
+
+{
+"_id" : 54,
+"name" : "聖杯四",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(54).jpg"
+},
+
+{
+"_id" : 55,
+"name" : "聖杯五",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(55).jpg"
+},
+
+{
+"_id" : 56,
+"name" : "聖杯六",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(56).jpg"
+},
+
+{
+"_id" : 57,
+"name" : "聖杯七",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(57).jpg"
+},
+
+{
+"_id" : 58,
+"name" : "聖杯八", "position" : "正位",
+"imageUrl" : "Tarotpic/(58).jpg"
+},
+
+{
+"_id" : 59,
+"name" : "聖杯九",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(59).jpg"
+},
+
+{
+"_id" : 60,
+"name" : "聖杯十",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(60).jpg"
+},
+
+{
+"_id" : 61,
+"name" : "聖杯國王",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(61).jpg"
+},
+
+{
+"_id" : 62,
+"name" : "聖杯皇后",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(62).jpg"
+},
+
+{
+"_id" : 63,
+"name" : "聖杯騎士",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(63).jpg"
+},
+
+{
+"_id" : 64,
+"name" : "聖杯侍者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(64).jpg"
+},
+
+{
+"_id" : 65,
+"name" : "錢幣一",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(65).jpg"
+},
+
+{
+"_id" : 66,
+"name" : "錢幣二",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(66).jpg"
+},
+
+{
+"_id" : 67,
+"name" : "錢幣三",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(67).jpg"
+},
+
+{
+"_id" : 68,
+"name" : "錢幣四",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(68).jpg"
+},
+
+{
+"_id" : 69,
+"name" : "錢幣五",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(69).jpg"
+},
+
+{
+"_id" : 70,
+"name" : "錢幣六",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(70).jpg"
+},
+
+{
+"_id" : 71,
+"name" : "錢幣七",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(71).jpg"
+},
+
+{
+"_id" : 72,
+"name" : "錢幣八",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(72).jpg"
+},
+
+{
+"_id" : 73,
+"name" : "錢幣九",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(73).jpg"
+},
+
+{
+"_id" : 74,
+"name" : "錢幣十",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(74).jpg"
+},
+
+{
+"_id" : 75,
+"name" : "錢幣國王",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(75).jpg"
+},
+
+{
+"_id" : 76,
+"name" : "錢幣皇后",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(76).jpg"
+},
+
+{
+"_id" : 77,
+"name" : "錢幣騎士",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(77).jpg"
+},
+
+{
+"_id" : 78,
+"name" : "錢幣侍者",
+"position" : "正位",
+"imageUrl" : "Tarotpic/(78).jpg"
+},
+
+{
+"_id" : 79,
+"name" : "愚者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(1).jpg"
+}, 
+{
+"_id" : 80,
+"name" : "魔術師",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(2).jpg"
+}, 
+{
+"_id" : 81,
+"name" : "女祭司",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(3).jpg"
+}, 
+{
+"_id" : 82,
+"name" : "皇后",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(4).jpg"
+}, 
+{
+"_id" : 83,
+"name" : "皇帝",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(5).jpg"
+}, 
+{
+"_id" : 84,
+"name" : "教宗",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(6).jpg"
+}, 
+{
+"_id" : 85,
+"name" : "戀人",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(7).jpg"
+}, 
+{
+"_id" : 86,
+"name" : "戰車",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(8).jpg"
+}, 
+{
+"_id" : 87,
+"name" : "力量",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(9).jpg"
+}, 
+{
+"_id" : 88,
+"name" : "隱者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(10).jpg"
+}, 
+{
+"_id" : 89,
+"name" : "命運之輪",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(11).jpg"
+}, 
+{
+"_id" : 90,
+"name" : "正義",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(12).jpg"
+}, 
+{
+"_id" : 91,
+"name" : "吊人",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(13).jpg"
+}, 
+{
+"_id" : 92,
+"name" : "死神",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(14).jpg"
+}, 
+{
+"_id" : 93,
+"name" : "節制",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(15).jpg"
+}, 
+{
+"_id" : 94,
+"name" : "惡魔",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(16).jpg"
+}, 
+{
+"_id" : 95,
+"name" : "塔",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(17).jpg"
+}, 
+{
+"_id" : 96,
+"name" : "星星",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(18).jpg"
+}, 
+{
+"_id" : 97,
+"name" : "月亮",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(19).jpg"
+}, 
+{
+"_id" : 98,
+"name" : "太陽",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(20).jpg"
+}, 
+{
+"_id" : 99,
+"name" : "審判",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(21).jpg"
+}, 
+{
+"_id" : 100,
+"name" : "世界",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(22).jpg"
+}, 
+{
+"_id" : 101,
+"name" : "權杖一",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(23).jpg"
+}, 
+{
+"_id" : 102,
+"name" : "權杖二",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(24).jpg"
+}, 
+{
+"_id" : 103,
+"name" : "權杖三",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(25).jpg"
+}, 
+{
+"_id" : 104,
+"name" : "權杖四",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(26).jpg"
+}, 
+{
+"_id" : 105,
+"name" : "權杖五",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(27).jpg"
+}, 
+{
+"_id" : 106,
+"name" : "權杖六",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(28).jpg"
+}, 
+{
+"_id" : 107,
+"name" : "權杖七",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(29).jpg"
+}, 
+{
+"_id" : 108,
+"name" : "權杖八",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(30).jpg"
+}, 
+{
+"_id" : 109,
+"name" : "權杖九",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(31).jpg"
+}, 
+{
+"_id" : 110,
+"name" : "權杖十",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(32).jpg"
+}, 
+{
+"_id" : 111,
+"name" : "權杖國王",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(33).jpg"
+}, 
+{
+"_id" : 112,
+"name" : "權杖皇后",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(34).jpg"
+}, 
+{
+"_id" : 113,
+"name" : "權杖騎士",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(35).jpg"
+}, 
+{
+"_id" : 114,
+"name" : "權杖侍者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(36).jpg"
+}, 
+{
+"_id" : 115,
+"name" : "寶劍一",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(37).jpg"
+}, 
+{
+"_id" : 116,
+"name" : "寶劍二",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(38).jpg"
+}, 
+{
+"_id" : 117,
+"name" : "寶劍三",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(39).jpg"
+}, 
+{
+"_id" : 118,
+"name" : "寶劍四",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(40).jpg"
+}, 
+{
+"_id" : 119,
+"name" : "寶劍五",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(41).jpg"
+}, 
+{
+"_id" : 120,
+"name" : "寶劍六",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(42).jpg"
+}, 
+{
+"_id" : 121,
+"name" : "寶劍七",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(43).jpg"
+}, 
+{
+"_id" : 122,
+"name" : "寶劍八",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(44).jpg"
+}, 
+{
+"_id" : 123,
+"name" : "寶劍九",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(45).jpg"
+}, 
+{
+"_id" : 124,
+"name" : "寶劍十",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(46).jpg"
+}, 
+{
+"_id" : 125,
+"name" : "寶劍國王",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(47).jpg"
+}, 
+{
+"_id" : 126,
+"name" : "寶劍皇后",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(48).jpg"
+}, 
+{
+"_id" : 127,
+"name" : "寶劍騎士",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(49).jpg"
+}, 
+{
+"_id" : 128,
+"name" : "寶劍侍者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(50).jpg"
+}, 
+{
+"_id" : 129,
+"name" : "聖杯一",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(51).jpg"
+}, 
+{
+"_id" : 130,
+"name" : "聖杯二",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(52).jpg"
+}, 
+{
+"_id" : 131,
+"name" : "聖杯三",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(53).jpg"
+}, 
+{
+"_id" : 132,
+"name" : "聖杯四",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(54).jpg"
+}, 
+{
+"_id" : 133,
+"name" : "聖杯五",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(55).jpg"
+}, 
+{
+"_id" : 134,
+"name" : "聖杯六",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(56).jpg"
+}, 
+{
+"_id" : 135,
+"name" : "聖杯七",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(57).jpg"
+}, 
+{
+"_id" : 136,
+"name" : "聖杯八",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(58).jpg"
+}, 
+{
+"_id" : 137,
+"name" : "聖杯九",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(59).jpg"
+}, 
+{
+"_id" : 138,
+"name" : "聖杯十",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(60).jpg"
+}, 
+{
+"_id" : 139,
+"name" : "聖杯國王",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(61).jpg"
+}, 
+{
+"_id" : 140,
+"name" : "聖杯皇后",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(62).jpg"
+}, 
+{
+"_id" : 141,
+"name" : "聖杯騎士",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(63).jpg"
+}, 
+{
+"_id" : 142,
+"name" : "聖杯侍者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(64).jpg"
+}, 
+{
+"_id" : 143,
+"name" : "錢幣一",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(65).jpg"
+}, 
+{
+"_id" : 144,
+"name" : "錢幣二",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(66).jpg"
+}, 
+{
+"_id" : 145,
+"name" : "錢幣三",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(67).jpg"
+}, 
+{
+"_id" : 146,
+"name" : "錢幣四",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(68).jpg"
+}, 
+{
+"_id" : 147,
+"name" : "錢幣五",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(69).jpg"
+}, 
+{
+"_id" : 148,
+"name" : "錢幣六",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(70).jpg"
+}, 
+{
+"_id" : 149,
+"name" : "錢幣七",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(71).jpg"
+}, 
+{
+"_id" : 150,
+"name" : "錢幣八",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(72).jpg"
+},  {
+"_id" : 151,
+"name" : "錢幣九",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(73).jpg"
+}, 
+{
+"_id" : 152,
+"name" : "錢幣十",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(74).jpg"
+}, 
+{
+"_id" : 153,
+"name" : "錢幣國王",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(75).jpg"
+}, 
+{
+"_id" : 154,
+"name" : "錢幣皇后",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(76).jpg"
+}, 
+{
+"_id" : 155,
+"name" : "錢幣騎士",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(77).jpg"
+}, 
+{
+"_id" : 156,
+"name" : "錢幣侍者",
+"position" : "逆位",
+"imageUrl" : "Tarotpic/(78).jpg"
+}
+]
+

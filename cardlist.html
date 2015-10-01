@@ -1,0 +1,37 @@
+
+<div class="container-fluid" ng-class="{'bg-darken':cards.focus!=null}" style="text-align: center">
+
+	<div class="panel pad-safari">
+		<div class="panel-body">
+			<a class="btn btn-default" href="#/home">回首頁</a>
+			<a class="btn btn-default" ng-click="resultSubmit(this)" ng-disabled="submitSucceed">儲存結果</a>		
+			<a class="btn btn-default" ng-show="submitSucceed" href="{{resultUrl}}" >前往結果</a>
+			<br>
+			<span ng-show="submitSucceed">結果已儲存</span>
+
+		</div>
+	</div>
+
+	<div class="row">
+		<div class="thumbnail card-listing col-xs-4 col-sm-3 col-md-2">
+			<img src="./Tarotpic/tarotdeck.jpg">
+		</div>
+
+		<div ng-repeat-start="card in cards" class="thumbnail card-listing col-xs-4 col-sm-3 col-md-2"   id="{{card.name}}">
+			<img ng-src="{{card.imageUrl}}" ng-click="setfocus(card,cards)" ng-class="{'card-reversed':card.position=='逆位'}">
+			<span style="text-shadow: 4px 4px 2px black">{{card.name}}({{card.position}})</span>
+		</div>
+		<div ng-if="$index%3==1||$index%4==2||$index%6==4" ng-repeat-end ng-class="{'clearfix visible-xs-block':$index%3==1,'clearfix visible-sm-block':$index%4==2,'clearfix visible-md-block':$index%6==4,'clearfix visible-lg-block':$index%6==4}"> 
+		</div>
+		<div ng-if="$index%4==3" ng-repeat-end class="clearfix visible-sm-block"> 
+		</div>
+	</div>
+</div>
+
+
+<div ng-cloak ng-show="cards.focus===card" ng-repeat="card in cards" class="thumbnail focused" id="{{card.name}}+'focus'">
+	<img class="focusedcard" ng-src="{{card.imageUrl}}" ng-click="cards.focus=null">
+	<span><h4 style="text-shadow: 4px 4px 2px black">{{card.name}}</h4></span>
+</div>
+
+

@@ -1,0 +1,48 @@
+	<div>
+		<!--
+		<div class="menupic"  style="">
+			
+		</div>
+-->
+		<div after-view class="menupic  menupic-topright"  style="" ng-init="menutopshow=false">
+			<img src="./Tarotpic/tarotdeck.jpg" class="menupic-top tarotDeck" ng-class="{'menupop-top': menutopshow}" ng-animate-ref="tarotDeck" ng-click="menutopshow=!menutopshow;menuleftshow=false">
+			<img src="./Tarotpic/(3).jpg" class="cardback menupic-top" ng-class="{'menupop-top': menutopshow}" ng-click="menutopshow=!menutopshow;menuleftshow=false">
+		</div>
+		
+		<div after-view class="menupic menupic-botleft"  style="top:50vh;text-align:right" ng-init="menuleftshow=false">
+			<img src="./Tarotpic/angeldeck.jpg" class="menupic-bot" ng-class="{'menupop-left': menuleftshow}" ng-click="menuleftshow=!menuleftshow;menutopshow=false">
+			<img src="./Tarotpic/(2).jpg" class="cardback menupic-bot" ng-class="{'menupop-left': menuleftshow}" ng-click="menuleftshow=!menuleftshow;menutopshow=false">
+		</div>
+		
+		<div class="menupic"  style="top:50vh;left:50vw;z-index:-1">
+			
+		</div>
+
+		<div after-view class="drawmenu drawmenu-top panel panel-default"  ng-class="{'menupop-top': menutopshow}">
+			
+			<div class="panel-body">
+			<h4>塔羅</h4>
+			姓名: <input ng-model="askerName"><br>
+			張數:
+			<select ng-model="cardNum" ng-init="cardNum=cardTypes[1].number[2]" ng-options="num for num in cardTypes[1].number"></select><br>
+			<a class="btn btn-default" href="#/result/{{askerName}}/{{cardNum}}">抽牌</a>
+			</div>
+		</div>
+
+		<div after-view class="drawmenu drawmenu-left panel"  ng-class="{'menupop-left': menuleftshow}">
+			<div class="panel-body">
+			<h4>天使(建構中)</h4>
+			姓名: <input ng-model="askerName"><br>
+
+			類型:
+			<select ng-model="cardType" ng-init="cardType=cardTypes[0]" ng-options="type.name for type in cardTypes"></select><br>
+
+			張數:
+			<select ng-model="cardNum" ng-init="" ng-options="num for num in cardTypes[0].number"></select><br>
+			<a href="#/result/{{askerName}}/{{cardNum}}" class="btn btn-default">抽牌</a>
+		</div>
+		</div>
+
+
+
+	</div>

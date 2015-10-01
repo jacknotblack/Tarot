@@ -1,0 +1,44 @@
+
+<div class="container-fluid" ng-class="{'bg-darken':cards.focus!=null}" style="text-align: center">
+	<div class="panel pad-safari">
+		<div class="panel-heading" >
+			<h4>{{result.askerName}}</h4>於{{time}}的抽牌<br>
+		</div>
+		<div ng-hide="isBackStage">
+			<div class="fb-send" data-href="{{url}}" data-colorscheme="light"></div>
+		</div>
+		<div class="panel-body" >
+			<div ng-show="isBackStage">
+				上次解牌
+				<textarea  rows=5 style="resize: none;width: 100%" readonly>{{result.oldComment}}</textarea>
+			</div>
+			解牌內容
+			<textarea ng-model="oldComment" ng-readonly="!isBackStage" rows=5 style="resize: none;width: 100%"></textarea><br>
+			<a class="btn btn-default" ng-show="isBackStage" ng-click="saveExplain()" style="margin-bottom:20px">儲存</a>
+			<a class="btn btn-default" ng-show="isBackStage" style="margin-bottom:20px" onclick="history.go(-1);">回列表</a>
+			<span ng-show="commentStored">解牌紀錄已儲存</span>
+		</div>
+	</div>
+
+
+
+	<div class="row">
+		<div ng-repeat-start="card in cards" class="thumbnail card-listing col-xs-4 col-sm-3 col-md-2"   id="{{card.name}}">
+			<img ng-src="{{card.imageUrl}}" ng-click="setfocus(card,cards)" ng-class="{'card-reversed':card.position=='逆位'}">
+			<span>{{card.name}}({{card.position}})</span>
+
+		</div>
+		<div ng-if="$index%3==2||$index%4==3||$index%6==5" ng-repeat-end ng-class="{'clearfix visible-xs-block':$index%3==2,'clearfix visible-sm-block':$index%4==3,'clearfix visible-md-block':$index%6==5,'clearfix visible-lg-block':$index%6==5}"> 
+		</div>
+		<div ng-if="$index%4==3" ng-repeat-end class="clearfix visible-sm-block"> </div>
+
+
+	</div>
+
+</div>
+
+<div  ng-show="cards.focus===card" ng-repeat="card in cards" class="thumbnail focused ng-hide" id="{{card.name}}+'focus'">
+	<img class="focusedcard" ng-src="{{card.imageUrl}}" ng-click="cards.focus=null">
+	<span><h4>{{card.name}}</h4></span>
+	
+</div>

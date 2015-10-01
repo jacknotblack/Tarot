@@ -1,0 +1,702 @@
+body
+{
+  background-image: url("../Tarotpic/background1080.jpg");
+    font-size: 2.5vh;
+}
+h4
+{
+    font-size: 3vh;
+}
+
+table
+{
+  font-size: 1em;
+}
+
+th
+{
+  text-align: center;
+}
+
+td
+{
+  height: 3em;
+}
+
+td:nth-child(1)
+{
+  width: 25%;
+}
+
+td:nth-child(2)
+{
+  width: 35%;
+}
+
+td:nth-child(3)
+{
+  width: 20%;
+}
+
+td:nth-child(4)
+{
+  width: 20%;
+}
+
+.view-frame{
+  /*
+  background-image: url("../Tarotpic/background1080.jpg");
+*/
+  height: 100%;
+  top:0;
+  bottom:0;
+  z-index: 100;
+  }
+
+
+.menupic{
+ perspective: 500px;
+  -webkit-perspective: 500px;
+  -moz-perspective: 500px;
+  -o-perspective: 500px;
+  -ms-perspective: 500px;
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+-webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+
+  position:absolute;
+  /*
+ background-color:#7C77FF;
+ */
+  height:50vh;
+  width:50vw;
+z-index:20;
+  
+  margin:0 !important;
+  
+}
+
+.menupic-top{
+  top:0;
+  height:100%;
+  left:0;
+  box-shadow: 8px 6px 20px black;
+
+    border-radius: 15px;
+
+}
+
+.menupic-bot{
+  top:0vh;
+  height:100%;
+  right:0;
+  box-shadow: 8px 6px 20px black;
+
+  border-radius: 15px;
+}
+
+.menupic.menupic-topright{
+top:0;
+left:-50vw;
+}
+
+.menupic.menupic-botleft{
+top:50vh;
+right:-50vw;
+}
+
+.thumbnail
+{
+  background-color: rgba(255,255,255,0);
+  text-align: center;
+  color: white;
+  border: 0;
+}
+
+.cardback{
+ -webkit-backface-visibility: hidden;
+   -moz-backface-visibility: hidden;
+   -ms-backface-visibility: hidden;
+   -o-backface-visibility: hidden;
+   backface-visibility: hidden;
+
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  position:absolute;
+  overflow: hidden;
+  height:100%;
+  /*
+  display:none;
+  
+  top:0;
+  */
+}
+
+.menupic>img.cardback.menupop-top,
+.menupic>img.cardback.menupop-left
+{
+  transform: rotateY(720deg);
+  -webkit-transform: rotateY(720deg);
+  -moz-transform: rotateY(720deg);
+  -ms-transform: rotateY(720deg);
+  -o-transform: rotateY(720deg);
+}
+
+.menupic-topright>img.menupop-top,
+.menupic-botleft>img.menupop-left
+{
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  transform: rotateY(540deg);
+  -webkit-transform: rotateY(540deg);
+  -moz-transform: rotateY(540deg);
+  -ms-transform: rotateY(540deg);
+  -o-transform: rotateY(540deg);
+  -webkit-transition: all 500ms linear;
+  -moz-transition:  all 500ms linear;
+  -ms-transition:  all 500ms linear;
+  -o-transition:  all 500ms linear;
+
+
+}
+
+
+.menupic-topright>img.menupop-top-remove-active,
+.menupic-botleft>img.menupop-left-remove-active{
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  transform: rotateY(360deg);
+  -webkit-transform: rotateY(360deg);
+  -moz-transform: rotateY(360deg);
+  -ms-transform: rotateY(360deg);
+  -o-transform: rotateY(360deg);
+  -webkit-transition: all 500ms linear;
+  -moz-transition:  all 500ms linear;
+  -ms-transition:  all 500ms linear;
+  -o-transition:  all 500ms linear;
+}
+
+.menupic-topright>img.cardback.menupop-top-remove-active,
+.menupic-botleft>img.cardback.menupop-left-remove-active{
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  transform: rotateY(540deg);
+  -webkit-transform: rotateY(540deg);
+  -moz-transition: rotateY(540deg);
+  -ms-transition: rotateY(540deg);
+  -o-transition: rotateY(540deg);
+  -webkit-transition: all 500ms linear;
+  -moz-transition:  all 500ms linear;
+  -ms-transition:  all 500ms linear;
+  -o-transition:  all 500ms linear;
+}
+
+.pad-safari
+{
+  margin-top: 70px;
+}
+
+.panel
+{
+  max-width: 800px;
+  background-color: #E4FFE1;
+  box-shadow: 8px 6px 20px black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.panel-heading
+{
+  
+}
+
+.panel-body
+{
+  padding:2px;
+}
+
+.panel-body>h4{
+  margin: 5px;
+}
+
+.panel-body>select{
+  width: 15vh;
+}
+
+a.btn{
+  display:inline-block;
+  padding-top:4px;
+  padding-bottom: 4px;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 2.5vh;
+}
+
+
+.panel-backstage
+{
+
+  width: 80vw;
+  max-width: 400px;
+}
+
+
+.panel-backstage table
+{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.drawmenu
+{  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+
+    position: absolute;
+    top: 0vh;
+   width: 28.5vh;
+   height:28.5vh;
+  text-align:center;
+z-index: 1;
+border-radius: 15px;
+    /*
+    display:none;
+ */
+}
+
+.drawmenu>.panel-body>input
+{
+  width:15vh;
+}
+
+.drawmenu.drawmenu-top{
+  
+   top: 21.5vh;
+   left: -50vw;
+    opacity: :0;
+}
+
+
+
+.drawmenu.menupop-top.slide-in{
+   -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+   top: 50vh;
+    left: 50vw;
+    opacity:1;
+  z-index: 1;
+}
+
+.drawmenu.menupop-top-remove{
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+
+}
+
+
+.drawmenu-top.slide-in{
+ 
+  top: 21.5vh;
+  
+   left: 50vw;
+}
+
+.drawmenu.drawmenu-left{  
+  top: 50vh;
+    right:-50vw; 
+    opacity: 0;
+}
+
+.drawmenu-left.slide-in{
+ top:50vh;
+  right:50vw;
+  opacity: 1;
+ 
+}
+
+.drawmenu.menupop-left.slide-in{
+  -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+   top: 50vh;
+    right: calc(50vw - 28.5vh);
+    opacity:1;
+    z-index: 1;
+
+}
+
+.drawmenu.menupop-left-remove{
+    -webkit-transition: all 300ms linear;
+  -moz-transition: all 300ms linear;
+  -ms-transition: all 300ms linear;
+  -o-transition: all 300ms linear;
+
+}
+.slide-in{
+   -webkit-transition: all 1000ms ease;
+  -moz-transition: all 1000ms linear;
+  -ms-transition: all 1000ms linear;
+  -o-transition: all 1000ms linear;
+}
+
+.menupic.menupic-topright.slide-in{
+ 
+  top:0vh;
+  left:50vw;
+}
+
+.menupic.menupic-botleft.slide-in{
+
+  top:50vh;
+  right:50vw;
+}
+
+
+
+.recordEntry
+{
+  background-color: #e1e4ff;
+  
+  height: 3em;
+  
+  width: 80%;
+  margin-bottom: 1vh;
+  margin-top: 1vh;
+  vertical-align: middle;
+}
+
+.recordEntry a
+{
+   display: inline-block;
+   /*
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    */
+}
+
+.recordEntry.ng-enter,
+.recordEntry.ng-leave,
+.recordEntry.ng-move {
+  -webkit-transition: 300ms linear all;
+  -moz-transition: 300ms linear all;
+  -o-transition: 300ms linear all;
+  transition: 300ms linear all;
+}
+
+.recordEntry.ng-enter-stagger {
+  /* this will have a 100ms delay between each successive leave animation */
+  transition-delay: 300ms;
+
+  /* As of 1.4.4, this must always be set: it signals ngAnimate
+    to not accidentally inherit a delay property from another CSS class */
+  transition-duration: 0s;
+}
+
+.recordEntry.ng-leave-stagger {
+  /* this will have a 100ms delay between each successive leave animation */
+  transition-delay: 300ms;
+
+  /* As of 1.4.4, this must always be set: it signals ngAnimate
+    to not accidentally inherit a delay property from another CSS class */
+  transition-duration: 0s;
+}
+
+/*進入動畫起始狀態*/
+.recordEntry.ng-enter,
+.recordEntry.ng-move {
+
+  opacity: 0;
+  height: 0;
+  overflow: hidden;
+  
+    padding-top: 0;
+  padding-bottom: 0;
+  
+}
+
+/*進入動畫結束狀態*/
+.recordEntry.ng-move.ng-move-active,
+.recordEntry.ng-enter.ng-enter-active {
+  
+  height: 3em;
+  
+  opacity: 1;
+  
+}
+
+/*離開動畫起始狀態*/
+.recordEntry.ng-leave {
+
+  opacity: 1;
+  overflow: hidden;
+}
+
+/*離開動畫結束狀態*/
+.recordEntry.ng-leave.ng-leave-active {
+  
+  opacity: 0;
+  height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+
+
+.view-container {
+  position: relative;
+}
+
+.view-frame.ng-enter, .view-frame.ng-leave {
+  position: absolute;
+  top: 0px;
+  left: 0;
+  right: 0;
+}
+.view-frame.ng-enter
+{
+  top: 0px;
+  opacity: 0
+}
+
+.view-frame.ng-leave 
+{
+  opacity: 1
+}
+
+div.view-frame.ng-scope.ng-animate.ng-enter.ng-enter-active
+{
+  position: absolute;
+  top: 0;
+  opacity: 1
+}
+
+div.view-frame.ng-scope.ng-animate.ng-leave.ng-leave-active
+{
+  opacity: 0
+}
+
+.view-frame.ng-enter {
+  -webkit-transition: 800ms linear;
+  -moz-transition: 800ms linear;
+  -o-atransition: 800ms linear;
+  transition: 800ms linear;
+  z-index: 100;transition
+}
+
+.view-frame.ng-leave {
+  -webkit-transition: 800ms linear;
+  -moz-transition: 800ms linear;
+  -o-transition: 800ms linear;
+  transition: 800ms linear;
+  z-index:99;
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@-moz-keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@-webkit-keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+@-moz-keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+@-webkit-keyframes fade-out {
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
+
+.bg-darken
+{
+    -webkit-transition: all 500ms linear;
+  -moz-transition:  all 500ms linear;
+  -ms-transition:  all 500ms linear;
+  -o-transition:  all 500ms linear;
+
+   -webkit-filter: grayscale(100%) blur(5px);
+  -moz-filter: grayscale(100%) blur(5px);
+  -ms-filter: grayscale(100%) blur(5px);
+  -o-filter: grayscale(100%) blur(5px); 
+  filter: grayscale(100%) blur(5px);
+  filter: gray; /* IE 6-9 */
+}
+
+.bg-darken-remove
+{
+      -webkit-transition: all 500ms linear !important;
+  -moz-transition:  all 500ms linear !important;
+  -ms-transition:  all 500ms linear !important;
+  -o-transition:  all 500ms linear !important;
+}
+
+.bg-darken-remove.thumbnail
+{
+      -webkit-transition: all 500ms linear !important;
+  -moz-transition:  all 500ms linear !important;
+  -ms-transition:  all 500ms linear !important;
+  -o-transition:  all 500ms linear !important;
+}
+
+.bg-darken-remove-active
+{
+   -webkit-filter: grayscale(0%) blur(0px);
+  -moz-filter: grayscale(0%) blur(0px);
+  -ms-filter: grayscale(0%) blur(0px);
+  -o-filter: grayscale(0%) blur(0px);
+  filter: grayscale(0%) blur(0px);
+  filter: none; /* IE 6-9 */
+}
+
+.thumbnail span
+{
+  text-shadow: 4px 4px 2px black;
+}
+
+.thumbnail
+{
+  padding:0;
+}
+
+.thumbnail img
+{
+  border-radius: 15px;
+  box-shadow: 6px 6px 20px black;
+  width:85%;
+}
+
+.thumbnail>img.focusedcard
+{
+  width: 40vh;
+  height: 70vh;
+ box-shadow: 6px 6px 20px black;
+ border-radius: 15px;
+}
+
+.focused{
+   position: fixed;
+      top: 5vh;
+      right: 0;
+      left: 0;
+      margin: auto;
+      width: 40vh;
+      height: 80vh;
+    z-index: 2;
+
+    
+}
+
+
+.focused.ng-hide-remove {
+ -webkit-transition: 500ms;
+  -moz-transition:  500ms;
+  -o-transition:  500ms;
+  transition:  500ms;
+}
+.focused.ng-hide-add{
+ -webkit-transition: 500ms;
+  -moz-transition: 500ms;
+  -o-transition: 500ms;
+  transition: 500ms;
+
+}
+
+.focused.ng-hide-add.ng-hide-add-active
+{
+  /*
+  display: none !important;
+  */
+}
+.focused.ng-hide {
+  /*
+  line-height: 0;
+  */
+  opacity: 0;
+  /*
+  padding: 0 10px;
+  */
+}
+
+.askername
+{
+  position: relative;
+  text-align: left;
+  height: 1em;
+  padding-left: 5%;
+}
+
+.time
+{
+ height: 1em;
+  display:inline-block;
+}
+.ctype
+{
+  height: 1em;
+  display:inline-block;
+}
+
+.cnum
+{
+  height: 1em;
+  display:inline-block;
+}
+
+.check-element {
+  padding: 10px;
+  border: 1px solid black;
+  background: white;
+}
+
+.thumbnail.card-reversed{
+    -moz-transform: scaley(-1);
+        -o-transform: scaley(-1);
+        -webkit-transform: scaley(-1);
+        transform: scaley(-1);
+        filter: FlipV;
+        -ms-filter: "FlipV";
+        box-shadow: 6px -6px 20px black;
+  }
+
+.tarotDeck.ng-anchor
+{
+   -webkit-transition: 500ms linear all;
+  -moz-transition: 500ms linear all;
+  -o-transition: 500ms linear all;
+  transition: 500ms linear all;
+}
+
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+  display: none !important;
+}

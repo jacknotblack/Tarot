@@ -1,0 +1,18 @@
+<div class="panel panel-backstage pad-safari">
+
+	<a class="btn btn-default" ng-click="switchFilter()" ng-init="unreadOnly=true">切換未讀/全部</a><br>
+	以下為<span style="color: purple">{{unreadStr}}</span>紀錄:
+	
+	<div class="recordEntry panel" ng-repeat="record in records | orderBy : '-time' | filter : filterUnread" ng-init="time=timeFormatParse(record.time)">
+	
+		
+		<div class="askername"><a ng-href="#/archive/{{record.time}}/bs">{{record.askerName}}</a></div>
+		<div class="ctype">{{record.cardType}}</div>
+		<div class="cnum">{{record.cards.length}}張</div>
+		<div class="time">{{time}}</div>
+	
+	</div>
+
+
+
+</div>

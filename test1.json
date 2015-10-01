@@ -1,0 +1,561 @@
+[
+{
+    "_id" : 1,
+    "name" : "愚者",
+    "position" : "正位",
+    "description" : "the fool is cute",
+    "imageUrl" : "Tarotpic/(1).jpg"
+},
+{
+    "_id" : 2,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(2).jpg"
+},
+{
+    "_id" : 3,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(3).jpg"
+},
+{
+    "_id" : 4,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(4).jpg"
+},
+{
+    "_id" : 5,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(5).jpg"
+},
+{
+    "_id" : 6,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(6).jpg"
+},
+{
+    "_id" : 7,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(7).jpg"
+},
+{
+    "_id" : 8,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(8).jpg"
+},
+{
+    "_id" : 9,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(9).jpg"
+},
+{
+    "_id" : 10,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(10).jpg"
+},
+{
+    "_id" : 11,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(11).jpg"
+},
+{
+    "_id" : 12,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(12).jpg"
+},
+{
+    "_id" : 13,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(13).jpg"
+},
+{
+    "_id" : 14,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(14).jpg"
+},
+{
+    "_id" : 15,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(15).jpg"
+},
+{
+    "_id" : 16,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(16).jpg"
+},
+{
+    "_id" : 17,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(17).jpg"
+},
+{
+    "_id" : 18,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(18).jpg"
+},
+{
+    "_id" : 19,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(19).jpg"
+},
+{
+    "_id" : 20,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(20).jpg"
+},
+{
+    "_id" : 21,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(21).jpg"
+},
+{
+    "_id" : 22,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(22).jpg"
+},
+{
+    "_id" : 23,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(23).jpg"
+},
+{
+    "_id" : 24,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(24).jpg"
+},
+{
+    "_id" : 25,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(25).jpg"
+},
+{
+    "_id" : 26,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(26).jpg"
+},
+{
+    "_id" : 27,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(27).jpg"
+},
+{
+    "_id" : 28,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(28).jpg"
+},
+{
+    "_id" : 29,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(29).jpg"
+},
+{
+    "_id" : 30,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(30).jpg"
+},
+{
+    "_id" : 31,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(31).jpg"
+},
+{
+    "_id" : 32,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(32).jpg"
+},
+{
+    "_id" : 33,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(33).jpg"
+},
+{
+    "_id" : 34,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(34).jpg"
+},
+{
+    "_id" : 35,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(35).jpg"
+},
+{
+    "_id" : 36,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(36).jpg"
+},
+{
+    "_id" : 37,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(37).jpg"
+},
+{
+    "_id" : 38,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(38).jpg"
+},
+{
+    "_id" : 39,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(39).jpg"
+},
+{
+    "_id" : 40,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(40).jpg"
+},
+{
+    "_id" : 41,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(41).jpg"
+},
+{
+    "_id" : 42,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(42).jpg"
+},
+{
+    "_id" : 43,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(43).jpg"
+},
+{
+    "_id" : 44,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(44).jpg"
+},
+{
+    "_id" : 45,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(45).jpg"
+},
+{
+    "_id" : 46,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(46).jpg"
+},
+{
+    "_id" : 47,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(47).jpg"
+},
+{
+    "_id" : 48,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(48).jpg"
+},
+{
+    "_id" : 49,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(49).jpg"
+},
+{
+    "_id" : 50,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(50).jpg"
+},
+{
+    "_id" : 51,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(51).jpg"
+},
+{
+    "_id" : 52,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(52).jpg"
+},
+{
+    "_id" : 53,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(53).jpg"
+},
+{
+    "_id" : 54,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(54).jpg"
+},
+{
+    "_id" : 55,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(55).jpg"
+},
+{
+    "_id" : 56,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(56).jpg"
+},
+{
+    "_id" : 57,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(57).jpg"
+},
+{
+    "_id" : 58,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(58).jpg"
+},
+{
+    "_id" : 59,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(59).jpg"
+},
+{
+    "_id" : 60,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(60).jpg"
+},
+{
+    "_id" : 61,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(61).jpg"
+},
+{
+    "_id" : 62,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(62).jpg"
+},
+{
+    "_id" : 63,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(63).jpg"
+},
+{
+    "_id" : 64,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(64).jpg"
+},
+{
+    "_id" : 65,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(65).jpg"
+},
+{
+    "_id" : 66,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(66).jpg"
+},
+{
+    "_id" : 67,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(67).jpg"
+},
+{
+    "_id" : 68,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(68).jpg"
+},
+{
+    "_id" : 69,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(69).jpg"
+},
+{
+    "_id" : 70,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(70).jpg"
+},
+{
+    "_id" : 71,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(71).jpg"
+},
+{
+    "_id" : 72,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(72).jpg"
+},
+{
+    "_id" : 73,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(73).jpg"
+},
+{
+    "_id" : 74,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(74).jpg"
+},
+{
+    "_id" : 75,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(75).jpg"
+},
+{
+    "_id" : 76,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(76).jpg"
+},
+{
+    "_id" : 77,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(77).jpg"
+},
+{
+    "_id" : 78,
+    "name" : "魔術師",
+    "position" : "正位",
+    "description" : "the magician is extremely cool",
+    "imageUrl" : "Tarotpic/(78).jpg"
+},
+{
+    "_id" : 79,
+    "name" : "愚者",
+    "position" : "逆位",
+    "description" : "the fool is still cute",
+    "imageUrl" : "Tarotpic/(1).jpg"
+},
+{
+    "_id" : 80,
+    "name" : "魔術師",
+    "position" : "逆位",
+    "description" : "the magician is awesome",
+    "imageUrl" : "Tarotpic/(2).jpg"
+}

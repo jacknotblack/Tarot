@@ -593,6 +593,8 @@ div.view-frame.ng-scope.ng-animate.ng-leave.ng-leave-active
   border-radius: 15px;
   box-shadow: 6px 6px 20px black;
   width:85%;
+  position: relative;
+  z-index: -1;
 }
 
 .thumbnail>img.focusedcard
@@ -686,6 +688,7 @@ img.card-reversed{
         filter: FlipV;
         -ms-filter: "FlipV";
         box-shadow: 6px -6px 20px black;
+
   }
 
 .tarotDeck.ng-anchor
